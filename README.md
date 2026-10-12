@@ -1,2 +1,2 @@
 # attendence-marking-using-face-recognition
-a cnn baesd attendence maangement using face recognition using deep learning.
+A CNN Attendence Management System using face recognition using deep learning.
